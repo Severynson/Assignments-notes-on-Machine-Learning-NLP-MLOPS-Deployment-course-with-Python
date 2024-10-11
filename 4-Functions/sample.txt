@@ -1,0 +1,5 @@
+Hello World! How are you?
+My name is Severyn.
+I am 22 years old.
+I am a student at the University of the Pacific.
+I am learning Machine Learning with Python.
